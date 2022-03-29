@@ -1,0 +1,26 @@
+
+
+li {
+
+  display: table;
+
+}
+
+li:before {
+
+  content: '•';
+  padding-right: 5px;
+  display: table-cell;
+  vertical-align: middle;
+
+
+}
+
+a {
+
+  display:block;
+  text-decoration: none;
+
+}
+
+
